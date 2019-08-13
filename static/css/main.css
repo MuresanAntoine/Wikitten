@@ -112,6 +112,7 @@ form {
     display: block;
 }
 #sidebar li {
+    list-style-type: none;
     padding: 5px 0;
 }
 #sidebar ul li:last-child {
